@@ -1,6 +1,6 @@
 # TempMail-Bot
 
-A python oriented telegram bot for generating temporary Emails Developed By [@riz4d](https://github.com/riz4d) with API of **_https://www.1secmail.com_**
+A python oriented telegram bot for generating temporary Emails Developed By [@riz4d](https://github.com/riz4d) with API of **_https://tempmail100.com_**
 
 ## DEMO
 - [Temp Mail](https://tempmail100.com)
